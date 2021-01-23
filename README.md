@@ -1,6 +1,7 @@
 # DevMountainCareerOutcomeLecture
 
-## LECTURE JOB HUNT ON Week 3 Friday at DevMountain
+### JOB HUNT 
+### Week 3 Friday Jan 22, 2021 at DevMountain
  
  - Active job hunting
     - 26 application to get called back
