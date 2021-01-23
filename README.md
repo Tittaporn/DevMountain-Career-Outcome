@@ -1,4 +1,4 @@
-# DevMountainCareerOutcomeLecture
+# DevMountain Career Outcome Lecture
 
 ### JOB HUNT 
 ### Week 3 Friday Jan 22, 2021 at DevMountain
