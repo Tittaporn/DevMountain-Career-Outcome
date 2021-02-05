@@ -45,6 +45,23 @@ _____________________________________________________________
   - Messaging
  _____________________________________________________________
 
+### Week 5 Friday Feb 5, 2021 at DevMountain
+ #### Community Involvement
+ - your time at Devmoutain or due to other factors
+ - Tapping into community
+ - alumni in slack, join the group
+ - Get on Slack
+ - "Hey All, I am an iOS Developer..." To the community you joined.
+ - Best way to contact me,
+     - share a linkedin link
+     - provide your jobseeker email(risky)
+     - NEVER PROVIDE YOUR PHONE NUMBER
+ - Github
+ - StackOverflow
+ - Driving It Home
+ - Stay Visible
+ - Be obesever from now in the tech community
+  
  
 #### @iOS App Development Bootcamp at Dev Mountain
 Over 13 demanding weeks in our iOS development bootcamp you’ll find out what it means to be an app developer. Using tools like Github and Xcode to collaborate, and languages like Objective-C and Swift to create, you’ll prepare for a career in tech. At the end of the course, students work with Software QA and UX Design students to create an app for Apple products.
